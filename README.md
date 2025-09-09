@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tim Pro</h1>
 <h3 align="center">A passionate software developer and product focused technical manager</h3>
 
-- 🔭 I’m currently working on [Internal aplications](www.hcsc.com)
+- 🔭 I’m currently working on [Internal applications](www.hcsc.com)
 
-- 🌱 I’m currently learning **Data virtualization**
+- 🌱 I’m currently learning **Data Virtualization, Machine Learning, and AI application**
 
 - 👯 I’m looking to collaborate on [Healthcare AI initiatives](www.hcsc.com)
 
